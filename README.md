@@ -26,7 +26,7 @@ No concibo la programación únicamente como la escritura de código, sino como 
 ## 📈 Métricas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariajesusherrera&v=1&theme=tokyonight&hide_border=true" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariajesusherrera&v=2&theme=tokyonight&hide_border=true" /> 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mariajesusherrera&theme=tokyonight&hide_border=true" />
 <!--  
   <div align="center">
